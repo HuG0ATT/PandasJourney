@@ -1,0 +1,9 @@
+transaction_id,customer_id,product,quantity,price,date
+1,101,Apple,2,0.5,2023-01-01
+2,102,Banana,5,0.2,2023-01-01
+3,103,Orange,3,0.3,2023-01-02
+4,101,Banana,2,0.2,2023-01-03
+5,104,Apple,4,0.5,2023-01-04
+6,102,Orange,1,0.3,2023-01-05
+7,103,Apple,2,0.5,2023-01-05
+8,101,Orange,6,0.3,2023-01-06
